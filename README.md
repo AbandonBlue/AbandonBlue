@@ -6,8 +6,8 @@
 - Projects / Code snippets as listed below (to be continued...)
   - [NLP related](https://github.com/AbandonBlue/nlp-overview/blob/main/README.md)
   - RecSys related
-  - Computer Vision related
-  - Time Series related
+  - [Computer Vision related](https://github.com/AbandonBlue/cv-overview)
+  - [Time Series related](https://github.com/AbandonBlue/ts-overview)
   - Crawler / Data required related
   - AutoML related
 - other learning resources recommended
