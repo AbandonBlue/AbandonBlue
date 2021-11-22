@@ -5,11 +5,14 @@
 - 📫 How to reach me: https://www.linkedin.com/in/aaron-yang-640a72176/
 - Projects / Code snippets as listed below (to be continued...)
   - [NLP related](https://github.com/AbandonBlue/nlp-overview/blob/main/README.md)
-  - RecSys related
+  - [RecSys related](https://github.com/AbandonBlue/recsys-overview/blob/main/README.md)
   - [Computer Vision related](https://github.com/AbandonBlue/cv-overview)
   - [Time Series related](https://github.com/AbandonBlue/ts-overview)
-  - Crawler / Data required related
-  - AutoML related
+  - [AutoML related](https://github.com/AbandonBlue/auto-ml/blob/main/README.md)
+  - [ML related](https://github.com/AbandonBlue/ml-overview/blob/main/README.md)
+  - [EDA / Data preparation / Crawler / Data required related](https://github.com/AbandonBlue/EDA-Data-preparation-Crawler-Data-required-related/blob/main/README.md)
+  - Monitor / Deployment
+
 - other learning resources recommended
   - to be continued...
 
