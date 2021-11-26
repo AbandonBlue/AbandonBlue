@@ -13,8 +13,12 @@
   - [EDA / Data preparation / Crawler / Data required related](https://github.com/AbandonBlue/EDA-Data-preparation-Crawler-Data-required-related/blob/main/README.md)
   - Monitor / Deployment
 
-- other learning resources recommended
-  - to be continued...
+
+other learning resources recommended
+- About Math
+  - 數學之美
+
+to be continued...
 
 
 <!---
