@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, RecSys and Backend development
 - 🌱 I’m currently learning how to build the whole RecSys and NLP application
 - 💞️ I’m looking to collaborate on everyone who is interested in building some app to deal with real world's problem
-- 📫 How to reach me: https://www.linkedin.com/in/aaron-yang-640a72176/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-yang-640a72176/), [Medium](https://medium.com/@abandonblue1015)
 - Projects / Code snippets as listed below (to be continued...)
   - [NLP related](https://github.com/AbandonBlue/nlp-overview/blob/main/README.md)
   - [RecSys related](https://github.com/AbandonBlue/recsys-overview/blob/main/README.md)
