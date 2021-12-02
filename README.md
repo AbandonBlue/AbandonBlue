@@ -12,7 +12,7 @@
   - [ML related](https://github.com/AbandonBlue/ml-overview/blob/main/README.md)
   - [EDA / Data preparation / Crawler / Data required related](https://github.com/AbandonBlue/EDA-Data-preparation-Crawler-Data-required-related/blob/main/README.md)
   - [Model selection](https://github.com/AbandonBlue/model-selection-compare-overview)
-  - Monitor / Deployment
+  - [Monitor / Deployment](../monitor-deployment)
 
 
 other learning resources recommended
