@@ -15,10 +15,6 @@
   - [Monitor / Deployment](https://github.com/AbandonBlue/monitor-deployment)
 
 
-other learning resources recommended
-- About Math
-  - 數學之美
-
 to be continued...
 
 
